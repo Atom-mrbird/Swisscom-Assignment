@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "fullname",
+      "type": "com.spring.microservices.configuration.CustomConfigurationVO",
+      "sourceType": "com.spring.microservices.configuration.CustomConfigurationVO"
+    }
+  ],
+  "properties": [
+    {
+      "name": "fullname.firstname",
+      "type": "java.lang.String",
+      "sourceType": "com.spring.microservices.configuration.CustomConfigurationVO"
+    },
+    {
+      "name": "fullname.lastname",
+      "type": "java.lang.String",
+      "sourceType": "com.spring.microservices.configuration.CustomConfigurationVO"
+    }
+  ],
+  "hints": []
+}
